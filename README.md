@@ -1,4 +1,4 @@
-[![Header](https://github.com/nischal2426/nischal2426/blob/main/git.png)
+(https://github.com/nischal2426/nischal2426/blob/main/git.png)
 
 
 ### Hi there 👋

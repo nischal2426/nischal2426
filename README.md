@@ -1,4 +1,4 @@
-(https://github.com/nischal2426/nischal2426/blob/main/git.png)
+![](https://github.com/user/banner.png) 
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>

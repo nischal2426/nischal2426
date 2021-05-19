@@ -2,7 +2,7 @@
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Jhey
+I'm Nischal
 
 <!--
 **nischal2426/nischal2426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

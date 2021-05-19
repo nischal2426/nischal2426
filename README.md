@@ -1,4 +1,4 @@
-![](https://github.com/user/banner.png) 
+![](https://raw.githubusercontent.com/nischal2426/nischal2426/main/git.png) 
 
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>

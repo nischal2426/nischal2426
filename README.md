@@ -1,6 +1,6 @@
-<center>
+
 ![](https://raw.githubusercontent.com/nischal2426/nischal2426/main/git.png) 
-</center>
+
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Nischal
